@@ -1,0 +1,8 @@
+C:\Users\Stephen\source\100days\FSCore\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\Stephen\source\100days\FSCore\src\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\Stephen\source\100days\FSCore\src\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\Stephen\source\100days\FSCore\src\Library\obj\Debug\netstandard2.0\Library.fsprojAssemblyReference.cache
+C:\Users\Stephen\source\100days\FSCore\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Stephen\source\100days\FSCore\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.fs
+C:\Users\Stephen\source\100days\FSCore\src\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\Stephen\source\100days\FSCore\src\Library\obj\Debug\netstandard2.0\Library.pdb

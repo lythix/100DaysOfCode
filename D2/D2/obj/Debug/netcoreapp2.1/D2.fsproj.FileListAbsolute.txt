@@ -1,0 +1,10 @@
+C:\Users\Stephen\source\100days\D2\D2\bin\Debug\netcoreapp2.1\D2.deps.json
+C:\Users\Stephen\source\100days\D2\D2\bin\Debug\netcoreapp2.1\D2.runtimeconfig.json
+C:\Users\Stephen\source\100days\D2\D2\bin\Debug\netcoreapp2.1\D2.runtimeconfig.dev.json
+C:\Users\Stephen\source\100days\D2\D2\bin\Debug\netcoreapp2.1\D2.dll
+C:\Users\Stephen\source\100days\D2\D2\bin\Debug\netcoreapp2.1\D2.pdb
+C:\Users\Stephen\source\100days\D2\D2\obj\Debug\netcoreapp2.1\D2.fsprojAssemblyReference.cache
+C:\Users\Stephen\source\100days\D2\D2\obj\Debug\netcoreapp2.1\D2.AssemblyInfoInputs.cache
+C:\Users\Stephen\source\100days\D2\D2\obj\Debug\netcoreapp2.1\D2.AssemblyInfo.fs
+C:\Users\Stephen\source\100days\D2\D2\obj\Debug\netcoreapp2.1\D2.dll
+C:\Users\Stephen\source\100days\D2\D2\obj\Debug\netcoreapp2.1\D2.pdb

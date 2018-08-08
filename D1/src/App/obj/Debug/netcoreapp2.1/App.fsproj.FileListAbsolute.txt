@@ -1,0 +1,13 @@
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\Library.dll
+C:\Users\Stephen\source\100days\FSCore\src\App\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.fsprojAssemblyReference.cache
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.fs
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.fsproj.CopyComplete
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\Stephen\source\100days\FSCore\src\App\obj\Debug\netcoreapp2.1\App.pdb
